@@ -30,7 +30,7 @@ This site introduces Deepshikha Rashmi, a first-year engineering student at SRM 
 
 ## Usage
 
-Open `portfolio.html` directly in any modern web browser — no build step or server required.
+Open `index.html` directly in any modern web browser — no build step or server required.
 
 ## Contact
 
